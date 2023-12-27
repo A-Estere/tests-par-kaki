@@ -1,0 +1,11 @@
+C:\Users\Dators\OneDrive\Dokumenti\GitHub\Cik Tu daudz zini par kakiem\bin\Debug\Cik Tu daudz zini par kakiem.exe.config
+C:\Users\Dators\OneDrive\Dokumenti\GitHub\Cik Tu daudz zini par kakiem\bin\Debug\Cik Tu daudz zini par kakiem.exe
+C:\Users\Dators\OneDrive\Dokumenti\GitHub\Cik Tu daudz zini par kakiem\bin\Debug\Cik Tu daudz zini par kakiem.pdb
+C:\Users\Dators\OneDrive\Dokumenti\GitHub\Cik Tu daudz zini par kakiem\obj\Debug\Cik Tu daudz zini par kakiem.csproj.AssemblyReference.cache
+C:\Users\Dators\OneDrive\Dokumenti\GitHub\Cik Tu daudz zini par kakiem\obj\Debug\Cik_Tu_daudz_zini_par_kakiem.Form1.resources
+C:\Users\Dators\OneDrive\Dokumenti\GitHub\Cik Tu daudz zini par kakiem\obj\Debug\Cik_Tu_daudz_zini_par_kakiem.Properties.Resources.resources
+C:\Users\Dators\OneDrive\Dokumenti\GitHub\Cik Tu daudz zini par kakiem\obj\Debug\Cik Tu daudz zini par kakiem.csproj.GenerateResource.cache
+C:\Users\Dators\OneDrive\Dokumenti\GitHub\Cik Tu daudz zini par kakiem\obj\Debug\Cik Tu daudz zini par kakiem.csproj.CoreCompileInputs.cache
+C:\Users\Dators\OneDrive\Dokumenti\GitHub\Cik Tu daudz zini par kakiem\obj\Debug\Cik Tu daudz zini par kakiem.exe
+C:\Users\Dators\OneDrive\Dokumenti\GitHub\Cik Tu daudz zini par kakiem\obj\Debug\Cik Tu daudz zini par kakiem.pdb
+C:\Users\Dators\OneDrive\Dokumenti\GitHub\Cik Tu daudz zini par kakiem\obj\Debug\Cik_Tu_daudz_zini_par_kakiem.Form2.resources

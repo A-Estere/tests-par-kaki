@@ -1,0 +1,1 @@
+# Cik Tu daudz zini par kakiem
